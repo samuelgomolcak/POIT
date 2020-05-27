@@ -42,3 +42,4 @@ Spojazdnenie riešenia pre WebSocket komunikáciu
                 1. Na svojej VM choďte do adresára /etc/ssl/ a zmeňte vlastnosti súboru openssl.cnf tak, aby ste ho mohli prepisovať:
 			$sudo chmod 0777 openssl.cnf
                 2. V súbore vyhľadajte premennú "MinProtocol", zmeňte jej hodnotu na "TLSv1" a uložte súbor.
+dfasdasd
